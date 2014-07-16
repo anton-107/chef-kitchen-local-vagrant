@@ -9,3 +9,5 @@ Initial steps:
 - $ bundle
 - $ knife solo init .
 - create Berksfile
+- sudo gem install berkshelf-api-client
+- berks install
