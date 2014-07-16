@@ -8,3 +8,4 @@ Initial steps:
 - $ sudo gem install dep_selector -v '1.0.3'
 - $ bundle
 - $ knife solo init .
+- create Berksfile
