@@ -11,3 +11,4 @@ Initial steps:
 - create Berksfile
 - sudo gem install berkshelf-api-client
 - berks install
+- create nodes/web1.example.com.json
